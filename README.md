@@ -1,0 +1,2 @@
+# javascriptkhushi
+inforamtion of javascript
